@@ -1,10 +1,11 @@
+# function will increment the number by one if it is not a palindrome or will return the number if it is a palindrome
 def next_palindrome(n):
     n = n+1
     while not is_palindrome(n):
         n += 1
     return n
 
-
+# funtion to check whether the number is a palindrome
 def is_palindrome(n):
     return str(n) == str(n)[::-1]
 
