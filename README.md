@@ -1,4 +1,4 @@
-# The Next Palindrome
+# The Next Palindrome [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/the-next-palindrome/badge)](https://www.codefactor.io/repository/github/googoldkhan/the-next-palindrome)
 
 * The user has to first input the number of test cases he wants to run, then the user has to input those numbers on which he/she wants to find the next palindrome number.
 
